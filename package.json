@@ -13,6 +13,13 @@
   },
   "jest": {
     "preset": "jest-expo"
+  },"android": {
+    "package": "myapp",  
+    "versionCode": 1,                  
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/adaptive-icon.png",
+      "backgroundColor": "#ffffff"
+    }
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
