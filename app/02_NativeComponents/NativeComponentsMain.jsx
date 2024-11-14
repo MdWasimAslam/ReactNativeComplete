@@ -6,6 +6,7 @@ import Images from './Images'
 import TextInputCompo from './TextInputCompo'
 import ScrollView_ from './ScrollView_'
 import Stylesheet from './Stylesheet'
+import Button_ from './Button_'
 
 
 const NativeComponentsMain = () => {
@@ -20,7 +21,8 @@ const NativeComponentsMain = () => {
       {/* <Images/> */}
       {/* <TextInputCompo/> */}
       {/* <ScrollView_/> */}
-      <Stylesheet/>
+      {/* <Stylesheet/> */}
+      <Button_/>
     </View>
   )
 }
