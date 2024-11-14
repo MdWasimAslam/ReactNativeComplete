@@ -1,0 +1,35 @@
+const fruitsList = [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Grapes",
+    "Mango",
+    "Pineapple",
+    "Strawberry",
+    "Blueberry",
+    "Raspberry",
+    "Blackberry",
+    "Peach",
+    "Pear",
+    "Watermelon",
+    "Papaya",
+    "Kiwi",
+    "Cherry",
+    "Plum",
+    "Apricot",
+    "Avocado",
+    "Lemon",
+    "Lime",
+    "Cantaloupe",
+    "Melon",
+    "Pomegranate",
+    "Fig",
+    "Dragonfruit",
+    "Tangerine",
+    "Grapefruit",
+    "Guava",
+    "Lychee"
+  ];
+
+
+  export default fruitsList;
