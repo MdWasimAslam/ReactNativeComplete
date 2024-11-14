@@ -7,6 +7,7 @@ import TextInputCompo from './TextInputCompo'
 import ScrollView_ from './ScrollView_'
 import Stylesheet from './Stylesheet'
 import Button_ from './Button_'
+import FlexBox from './FlexBox'
 
 
 const NativeComponentsMain = () => {
@@ -22,7 +23,8 @@ const NativeComponentsMain = () => {
       {/* <TextInputCompo/> */}
       {/* <ScrollView_/> */}
       {/* <Stylesheet/> */}
-      <Button_/>
+      {/* <Button_/> */}
+      <FlexBox/>
     </View>
   )
 }
